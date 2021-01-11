@@ -1,0 +1,481 @@
+urc_cat,provider_cat,rank,median,p25,p75
+Large central metro (1),"Buprenorphine
+Practitioner",1,3.31,2,5.25
+Large central metro (1),"Buprenorphine
+Practitioner",2,4.32,2.72,6.56
+Large central metro (1),"Buprenorphine
+Practitioner",3,5.04,3.23,7.45
+Large central metro (1),"Buprenorphine
+Practitioner",4,5.59,3.65,8.21
+Large central metro (1),"Buprenorphine
+Practitioner",5,6.08,3.98,8.83
+Large central metro (1),"Buprenorphine
+Practitioner",6,6.52,4.285,9.385000000000002
+Large central metro (1),"Buprenorphine
+Practitioner",7,6.89,4.5649999999999995,9.88
+Large central metro (1),"Buprenorphine
+Practitioner",8,7.25,4.85,10.33
+Large central metro (1),"Buprenorphine
+Practitioner",9,7.6,5.09,10.75
+Large central metro (1),"Buprenorphine
+Practitioner",10,7.93,5.32,11.15
+Large central metro (1),"Buprenorphine
+Practitioner",11,8.26,5.555,11.56
+Large central metro (1),"Buprenorphine
+Practitioner",12,8.56,5.78,11.96
+Large central metro (1),"Buprenorphine
+Practitioner",13,8.84,5.99,12.35
+Large central metro (1),"Buprenorphine
+Practitioner",14,9.15,6.22,12.74
+Large central metro (1),"Buprenorphine
+Practitioner",15,9.47,6.44,13.13
+Large fringe metro (2),"Buprenorphine
+Practitioner",1,5.47,3.325,9.41
+Large fringe metro (2),"Buprenorphine
+Practitioner",2,6.98,4.43,11.82
+Large fringe metro (2),"Buprenorphine
+Practitioner",3,8.12,5.3,13.69
+Large fringe metro (2),"Buprenorphine
+Practitioner",4,9.04,5.95,15.105
+Large fringe metro (2),"Buprenorphine
+Practitioner",5,9.87,6.52,16.28
+Large fringe metro (2),"Buprenorphine
+Practitioner",6,10.5,7.02,17.46
+Large fringe metro (2),"Buprenorphine
+Practitioner",7,11.17,7.485,18.39
+Large fringe metro (2),"Buprenorphine
+Practitioner",8,11.79,7.9,19.2
+Large fringe metro (2),"Buprenorphine
+Practitioner",9,12.4,8.3,20.01
+Large fringe metro (2),"Buprenorphine
+Practitioner",10,12.96,8.72,20.86
+Large fringe metro (2),"Buprenorphine
+Practitioner",11,13.56,9.09,21.645
+Large fringe metro (2),"Buprenorphine
+Practitioner",12,14.06,9.44,22.56
+Large fringe metro (2),"Buprenorphine
+Practitioner",13,14.58,9.75,23.189999999999998
+Large fringe metro (2),"Buprenorphine
+Practitioner",14,15.09,10.1,24.07
+Large fringe metro (2),"Buprenorphine
+Practitioner",15,15.59,10.46,24.86
+Medium metro (3),"Buprenorphine
+Practitioner",1,5.96,3.39,11.375
+Medium metro (3),"Buprenorphine
+Practitioner",2,7.69,4.545,14.344999999999999
+Medium metro (3),"Buprenorphine
+Practitioner",3,8.96,5.4,16.31
+Medium metro (3),"Buprenorphine
+Practitioner",4,10,6.09,17.84
+Medium metro (3),"Buprenorphine
+Practitioner",5,10.9,6.68,19.2
+Medium metro (3),"Buprenorphine
+Practitioner",6,11.71,7.2,20.47
+Medium metro (3),"Buprenorphine
+Practitioner",7,12.48,7.68,21.634999999999998
+Medium metro (3),"Buprenorphine
+Practitioner",8,13.31,8.19,23.06
+Medium metro (3),"Buprenorphine
+Practitioner",9,13.96,8.6225,24.3875
+Medium metro (3),"Buprenorphine
+Practitioner",10,14.66,9.05,25.897499999999997
+Medium metro (3),"Buprenorphine
+Practitioner",11,15.27,9.49,26.58
+Medium metro (3),"Buprenorphine
+Practitioner",12,15.87,9.91,27.29
+Medium metro (3),"Buprenorphine
+Practitioner",13,16.435000000000002,10.36,28.3375
+Medium metro (3),"Buprenorphine
+Practitioner",14,17.03,10.74,29.52
+Medium metro (3),"Buprenorphine
+Practitioner",15,17.63,11.16,30.32
+Small metro (4),"Buprenorphine
+Practitioner",1,7.865,3.94,16.72
+Small metro (4),"Buprenorphine
+Practitioner",2,10.1,5.38,20.91
+Small metro (4),"Buprenorphine
+Practitioner",3,11.87,6.34,23.33
+Small metro (4),"Buprenorphine
+Practitioner",4,13.37,7.28,25.53
+Small metro (4),"Buprenorphine
+Practitioner",5,15.03,8.09,28.15
+Small metro (4),"Buprenorphine
+Practitioner",6,16.46,8.94,30.1
+Small metro (4),"Buprenorphine
+Practitioner",7,17.91,9.75,32.07
+Small metro (4),"Buprenorphine
+Practitioner",8,19.88,10.83,34.62
+Small metro (4),"Buprenorphine
+Practitioner",9,21.84,11.93,37.16
+Small metro (4),"Buprenorphine
+Practitioner",10,24.21,13.13,39.66
+Small metro (4),"Buprenorphine
+Practitioner",11,26.55,14.43,42.88
+Small metro (4),"Buprenorphine
+Practitioner",12,29.31,16.03,46.48
+Small metro (4),"Buprenorphine
+Practitioner",13,31.52,17.73,50.23
+Small metro (4),"Buprenorphine
+Practitioner",14,33.59,19.83,53.04
+Small metro (4),"Buprenorphine
+Practitioner",15,36.67,22.2375,55.80499999999999
+Micropolitan (5),"Buprenorphine
+Practitioner",1,15,6.34,26.72
+Micropolitan (5),"Buprenorphine
+Practitioner",2,20.61,9.54,33.99
+Micropolitan (5),"Buprenorphine
+Practitioner",3,27.02,14.04,41.47
+Micropolitan (5),"Buprenorphine
+Practitioner",4,31.78,17.65,47.87
+Micropolitan (5),"Buprenorphine
+Practitioner",5,35.51,21.65,52.17
+Micropolitan (5),"Buprenorphine
+Practitioner",6,38.43,24.89,56.43
+Micropolitan (5),"Buprenorphine
+Practitioner",7,41.82,28.33,60.54
+Micropolitan (5),"Buprenorphine
+Practitioner",8,44.39,30.98,64.05
+Micropolitan (5),"Buprenorphine
+Practitioner",9,46.8,33.02,68.2375
+Micropolitan (5),"Buprenorphine
+Practitioner",10,49.224999999999994,34.95,71.1925
+Micropolitan (5),"Buprenorphine
+Practitioner",11,51.78,36.7225,75.1925
+Micropolitan (5),"Buprenorphine
+Practitioner",12,53.76,38.3,78.0025
+Micropolitan (5),"Buprenorphine
+Practitioner",13,55.66,39.74,81.015
+Micropolitan (5),"Buprenorphine
+Practitioner",14,57.504999999999995,41.097500000000004,84.2125
+Micropolitan (5),"Buprenorphine
+Practitioner",15,59.15,42.5,86.56
+Non-core (6),"Buprenorphine
+Practitioner",1,29.38,16.42,46.4325
+Non-core (6),"Buprenorphine
+Practitioner",2,39.95,26.06,57.91
+Non-core (6),"Buprenorphine
+Practitioner",3,46.3,31.97,66.38
+Non-core (6),"Buprenorphine
+Practitioner",4,51.02,36.47,72.01
+Non-core (6),"Buprenorphine
+Practitioner",5,55.06,39.91,76.64
+Non-core (6),"Buprenorphine
+Practitioner",6,58.42,42.57,80.4
+Non-core (6),"Buprenorphine
+Practitioner",7,61.12,44.955,83.46000000000001
+Non-core (6),"Buprenorphine
+Practitioner",8,63.7,46.925,86.97999999999999
+Non-core (6),"Buprenorphine
+Practitioner",9,65.89,48.93,89.94999999999999
+Non-core (6),"Buprenorphine
+Practitioner",10,67.93,50.644999999999996,93.13499999999999
+Non-core (6),"Buprenorphine
+Practitioner",11,70.01,52.59,96.39
+Non-core (6),"Buprenorphine
+Practitioner",12,72.18,54.18,98.745
+Non-core (6),"Buprenorphine
+Practitioner",13,74.25,55.97,101.68
+Non-core (6),"Buprenorphine
+Practitioner",14,76.04,57.65,104.59
+Non-core (6),"Buprenorphine
+Practitioner",15,78.07,59.105000000000004,107.77
+Rural (5-6),"Buprenorphine
+Practitioner",1,20.97,9.07,36.25
+Rural (5-6),"Buprenorphine
+Practitioner",2,28.78,14.8125,46.6575
+Rural (5-6),"Buprenorphine
+Practitioner",3,35.24,20.94,54.05
+Rural (5-6),"Buprenorphine
+Practitioner",4,40.24,25.14,59.6375
+Rural (5-6),"Buprenorphine
+Practitioner",5,44.08,28.82,64.11
+Rural (5-6),"Buprenorphine
+Practitioner",6,47.48,31.62,68.0775
+Rural (5-6),"Buprenorphine
+Practitioner",7,50.58,34.61749999999999,72.1575
+Rural (5-6),"Buprenorphine
+Practitioner",8,53.224999999999994,36.77,75.62
+Rural (5-6),"Buprenorphine
+Practitioner",9,55.68,38.78,78.89
+Rural (5-6),"Buprenorphine
+Practitioner",10,58.02,40.66,82.14500000000001
+Rural (5-6),"Buprenorphine
+Practitioner",11,60.37,42.52,85.655
+Rural (5-6),"Buprenorphine
+Practitioner",12,62.5,44.21,88.34
+Rural (5-6),"Buprenorphine
+Practitioner",13,64.46,46.075,91.49
+Rural (5-6),"Buprenorphine
+Practitioner",14,66.53,47.27,94.29
+Rural (5-6),"Buprenorphine
+Practitioner",15,68.455,48.8,97.21
+Urban (1-4),"Buprenorphine
+Practitioner",1,4.68,2.71,8.42
+Urban (1-4),"Buprenorphine
+Practitioner",2,6.03,3.67,10.55
+Urban (1-4),"Buprenorphine
+Practitioner",3,6.98,4.36,12.07
+Urban (1-4),"Buprenorphine
+Practitioner",4,7.78,4.91,13.34
+Urban (1-4),"Buprenorphine
+Practitioner",5,8.46,5.39,14.47
+Urban (1-4),"Buprenorphine
+Practitioner",6,9.08,5.81,15.52
+Urban (1-4),"Buprenorphine
+Practitioner",7,9.64,6.19,16.45
+Urban (1-4),"Buprenorphine
+Practitioner",8,10.19,6.57,17.51
+Urban (1-4),"Buprenorphine
+Practitioner",9,10.7,6.92,18.42
+Urban (1-4),"Buprenorphine
+Practitioner",10,11.21,7.25,19.38
+Urban (1-4),"Buprenorphine
+Practitioner",11,11.71,7.59,20.3
+Urban (1-4),"Buprenorphine
+Practitioner",12,12.17,7.92,21.13
+Urban (1-4),"Buprenorphine
+Practitioner",13,12.62,8.22,21.94
+Urban (1-4),"Buprenorphine
+Practitioner",14,13.08,8.54,22.96
+Urban (1-4),"Buprenorphine
+Practitioner",15,13.57,8.85,23.93
+Large central metro (1),"Opioid Treatment
+Program",1,8,4.93,12.85
+Large central metro (1),"Opioid Treatment
+Program",2,11.81,7.78,17.74
+Large central metro (1),"Opioid Treatment
+Program",3,14.25,9.59,21.26
+Large central metro (1),"Opioid Treatment
+Program",4,16.4,11.15,24.725
+Large central metro (1),"Opioid Treatment
+Program",5,18.45,12.57,27.835
+Large central metro (1),"Opioid Treatment
+Program",6,20.65,13.84,31.17
+Large central metro (1),"Opioid Treatment
+Program",7,22.42,15.01,37.09
+Large central metro (1),"Opioid Treatment
+Program",8,24.62,16.17,42.74
+Large central metro (1),"Opioid Treatment
+Program",9,26.81,17.39,47.01
+Large central metro (1),"Opioid Treatment
+Program",10,29.09,18.54,50.42
+Large central metro (1),"Opioid Treatment
+Program",11,31.85,19.675,56.93
+Large central metro (1),"Opioid Treatment
+Program",12,34.04,20.655,65.92
+Large central metro (1),"Opioid Treatment
+Program",13,36.71,21.68,74.31
+Large central metro (1),"Opioid Treatment
+Program",14,39.8,22.61,85.27
+Large central metro (1),"Opioid Treatment
+Program",15,41.29,23.634999999999998,94.28
+Large fringe metro (2),"Opioid Treatment
+Program",1,14.09,8.79,22.66
+Large fringe metro (2),"Opioid Treatment
+Program",2,20.43,13.99,30.93
+Large fringe metro (2),"Opioid Treatment
+Program",3,24.68,17.68,35.88
+Large fringe metro (2),"Opioid Treatment
+Program",4,28.35,20.465,40.12
+Large fringe metro (2),"Opioid Treatment
+Program",5,31.06,22.72,44.17
+Large fringe metro (2),"Opioid Treatment
+Program",6,33.85,24.83,47.89
+Large fringe metro (2),"Opioid Treatment
+Program",7,36.67,26.73,51.655
+Large fringe metro (2),"Opioid Treatment
+Program",8,39.32,28.39,57.885000000000005
+Large fringe metro (2),"Opioid Treatment
+Program",9,41.93,29.83,66.225
+Large fringe metro (2),"Opioid Treatment
+Program",10,44.48,31.384999999999998,69.83500000000001
+Large fringe metro (2),"Opioid Treatment
+Program",11,46.62,32.82,73.025
+Large fringe metro (2),"Opioid Treatment
+Program",12,49.38,34.06,77.76
+Large fringe metro (2),"Opioid Treatment
+Program",13,51.4,35.42,82.44
+Large fringe metro (2),"Opioid Treatment
+Program",14,53.99,37.03,91.77
+Large fringe metro (2),"Opioid Treatment
+Program",15,55.51,38.525000000000006,98.435
+Medium metro (3),"Opioid Treatment
+Program",1,13.66,7.76,23.865000000000002
+Medium metro (3),"Opioid Treatment
+Program",2,22.8,13.43,40.6375
+Medium metro (3),"Opioid Treatment
+Program",3,35.54,20.52,64.995
+Medium metro (3),"Opioid Treatment
+Program",4,51.75,30.95,87.69999999999999
+Medium metro (3),"Opioid Treatment
+Program",5,65.99,39.82,100.61
+Medium metro (3),"Opioid Treatment
+Program",6,75.97,46.885000000000005,115.91
+Medium metro (3),"Opioid Treatment
+Program",7,84.02,51.9,127.625
+Medium metro (3),"Opioid Treatment
+Program",8,90.01,55.715,135.56
+Medium metro (3),"Opioid Treatment
+Program",9,95.69,59.055,143.39
+Medium metro (3),"Opioid Treatment
+Program",10,100.1,63.105000000000004,149.61
+Medium metro (3),"Opioid Treatment
+Program",11,105.4,67.41499999999999,154.51999999999998
+Medium metro (3),"Opioid Treatment
+Program",12,110.13,71.06,158.14
+Medium metro (3),"Opioid Treatment
+Program",13,114.49,73.99,162.35500000000002
+Medium metro (3),"Opioid Treatment
+Program",14,120.44,78.68,167.01999999999998
+Medium metro (3),"Opioid Treatment
+Program",15,128.68,82.66,180.18
+Small metro (4),"Opioid Treatment
+Program",1,21.01,9.69,41.91
+Small metro (4),"Opioid Treatment
+Program",2,57.48,37.8575,86.73
+Small metro (4),"Opioid Treatment
+Program",3,74.245,51.7575,104.2025
+Small metro (4),"Opioid Treatment
+Program",4,83.47999999999999,59.4375,121.33250000000001
+Small metro (4),"Opioid Treatment
+Program",5,93.72999999999999,68.05250000000001,134.9825
+Small metro (4),"Opioid Treatment
+Program",6,101.02,75.5475,142.66000000000003
+Small metro (4),"Opioid Treatment
+Program",7,108.62,83.315,149.9075
+Small metro (4),"Opioid Treatment
+Program",8,114.46,87.60749999999999,156.3725
+Small metro (4),"Opioid Treatment
+Program",9,119.2,92.22749999999999,164.4325
+Small metro (4),"Opioid Treatment
+Program",10,124.525,97.05499999999999,170.28
+Small metro (4),"Opioid Treatment
+Program",11,130.41,100.8475,177.8875
+Small metro (4),"Opioid Treatment
+Program",12,135.05,104.46,181.61749999999998
+Small metro (4),"Opioid Treatment
+Program",13,139.49,108.17,187.3875
+Small metro (4),"Opioid Treatment
+Program",14,143.9,111.84249999999999,195.35500000000002
+Small metro (4),"Opioid Treatment
+Program",15,152.16,115,207.73999999999998
+Micropolitan (5),"Opioid Treatment
+Program",1,51.77,31.92,80.32
+Micropolitan (5),"Opioid Treatment
+Program",2,73.36500000000001,53.31,111.155
+Micropolitan (5),"Opioid Treatment
+Program",3,85.045,62.72,128.6825
+Micropolitan (5),"Opioid Treatment
+Program",4,95.255,69.8,139.8825
+Micropolitan (5),"Opioid Treatment
+Program",5,103.675,75.38,152.60000000000002
+Micropolitan (5),"Opioid Treatment
+Program",6,110.43,81.33250000000001,162.8675
+Micropolitan (5),"Opioid Treatment
+Program",7,117.08,85.5525,173.46999999999997
+Micropolitan (5),"Opioid Treatment
+Program",8,122.755,90.76,179.9925
+Micropolitan (5),"Opioid Treatment
+Program",9,128.28,95.37,186.58749999999998
+Micropolitan (5),"Opioid Treatment
+Program",10,133.99,100.0725,193.3175
+Micropolitan (5),"Opioid Treatment
+Program",11,139.565,104.1425,199.9925
+Micropolitan (5),"Opioid Treatment
+Program",12,144.7,107.9025,206.0525
+Micropolitan (5),"Opioid Treatment
+Program",13,151.11,112.5,212.1475
+Micropolitan (5),"Opioid Treatment
+Program",14,156.25,116.78250000000001,218.325
+Micropolitan (5),"Opioid Treatment
+Program",15,161.165,121.28,226.3075
+Non-core (6),"Opioid Treatment
+Program",1,72.07,50.1,105.77
+Non-core (6),"Opioid Treatment
+Program",2,91.65,68.39,133.91500000000002
+Non-core (6),"Opioid Treatment
+Program",3,106.61,81.045,153.56
+Non-core (6),"Opioid Treatment
+Program",4,118.38,89.795,169.08499999999998
+Non-core (6),"Opioid Treatment
+Program",5,127.98,97.25,183.785
+Non-core (6),"Opioid Treatment
+Program",6,137.35,105.14,195.325
+Non-core (6),"Opioid Treatment
+Program",7,144.96,110.39,203.86
+Non-core (6),"Opioid Treatment
+Program",8,151.85,117.045,212.46
+Non-core (6),"Opioid Treatment
+Program",9,159.39,122.115,218.60500000000002
+Non-core (6),"Opioid Treatment
+Program",10,166.4,127.66,224.7
+Non-core (6),"Opioid Treatment
+Program",11,173.16,132.215,233.815
+Non-core (6),"Opioid Treatment
+Program",12,178.61,137.87,240.64499999999998
+Non-core (6),"Opioid Treatment
+Program",13,184.12,142.215,246.435
+Non-core (6),"Opioid Treatment
+Program",14,189.58,146.975,253.765
+Non-core (6),"Opioid Treatment
+Program",15,195.35,152.05,260.21000000000004
+Rural (5-6),"Opioid Treatment
+Program",1,61.15,39.885000000000005,93.035
+Rural (5-6),"Opioid Treatment
+Program",2,82.23,59.29,121.01
+Rural (5-6),"Opioid Treatment
+Program",3,95.57,70.22,139.19
+Rural (5-6),"Opioid Treatment
+Program",4,106.06,77.84,152.35
+Rural (5-6),"Opioid Treatment
+Program",5,115.6,84.53,167.04
+Rural (5-6),"Opioid Treatment
+Program",6,123.61,90.97,178.08
+Rural (5-6),"Opioid Treatment
+Program",7,130.54,95.88,188.6
+Rural (5-6),"Opioid Treatment
+Program",8,137.49,100.96,195.39
+Rural (5-6),"Opioid Treatment
+Program",9,143.05,105.94,202.32
+Rural (5-6),"Opioid Treatment
+Program",10,149.85,110.69,209.33
+Rural (5-6),"Opioid Treatment
+Program",11,154.92,115.59,216.81
+Rural (5-6),"Opioid Treatment
+Program",12,160.15,119.8,223.24
+Rural (5-6),"Opioid Treatment
+Program",13,166.1,124.01,229.92
+Rural (5-6),"Opioid Treatment
+Program",14,171.72,128.52,235.84
+Rural (5-6),"Opioid Treatment
+Program",15,177.3,132.36,242.84
+Urban (1-4),"Opioid Treatment
+Program",1,11.51,6.63,19.96
+Urban (1-4),"Opioid Treatment
+Program",2,18.12,10.94,32.65
+Urban (1-4),"Opioid Treatment
+Program",3,23.21,14,43.52
+Urban (1-4),"Opioid Treatment
+Program",4,28.64,16.78,54.64
+Urban (1-4),"Opioid Treatment
+Program",5,33.2,19.12,65.49
+Urban (1-4),"Opioid Treatment
+Program",6,37.28,21.33,74.01
+Urban (1-4),"Opioid Treatment
+Program",7,41.86,23.2,82.46
+Urban (1-4),"Opioid Treatment
+Program",8,46.09,25.18,90.16
+Urban (1-4),"Opioid Treatment
+Program",9,49.86,27.05,98.07
+Urban (1-4),"Opioid Treatment
+Program",10,52.97,28.98,105.88
+Urban (1-4),"Opioid Treatment
+Program",11,57.4,31.29,111.01
+Urban (1-4),"Opioid Treatment
+Program",12,62.3,33,117.04
+Urban (1-4),"Opioid Treatment
+Program",13,66.56,34.73,122.73
+Urban (1-4),"Opioid Treatment
+Program",14,73.64,36.97,128.71
+Urban (1-4),"Opioid Treatment
+Program",15,77.25,38.46,136.62
