@@ -2,6 +2,7 @@
 code/secrets.R
 lit/**
 data_raw/osrm/**
+rmds/cleaning_addresses.*
 data_private/**
 manuscript/**
 misc/**
