@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Fragility of estimated access to opioid treatment providers in rural vs. urban areas of the United States
+# Robustness of estimated access to opioid treatment providers in rural vs. urban areas of the United States
 
 <p align="center">
 <img src="./output/figure1.jpg" width="600px" style="display: block; margin: auto;" />
@@ -9,15 +9,15 @@
 
 ## Introduction
 
-Reproducible code for our paper, *[Fragility of estimated access to
-opioid treatment providers in rural vs. urban areas of the United
-States](TODO)*, which compares the impact of hypothetical changes in
-physical access to opioid treatment across urban and rural counties. The
-full citation is:
+Reproducible code for our forthcoming paper, *[Robustness of estimated
+access to opioid treatment providers in rural vs. urban areas of the
+United States](TKTK)*, which compares the impact of hypothetical changes
+in physical access to opioid treatment across urban and rural counties.
+The full citation is:
 
-> Kiang MV, Barnett ML, Wakeman SE, Humphreys K, & Tsai AC, Fragility of
-> estimated access to opioid treatment providers in rural vs urban areas
-> of the United States. Forthcoming.
+> Kiang MV, Barnett ML, Wakeman SE, Humphreys K, & Tsai AC, Robustness
+> of estimated access to opioid treatment providers in rural vs urban
+> areas of the United States. In Press
 
 Please report any issues via email or [this
 repo](https://github.com/mkiang/opioid_treatment_distance/issues).

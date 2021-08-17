@@ -8,6 +8,8 @@ manuscript/**
 misc/**
 intermediate_objects/**
 code/old_code/**
+code/x_**
+data_raw/old_files/**
 
 
 # Cluster / jupyter ignore
