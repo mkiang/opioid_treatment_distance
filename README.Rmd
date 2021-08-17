@@ -25,6 +25,18 @@ Reproducible code for our forthcoming paper, *[Robustness of estimated access to
 
 > Kiang MV, Barnett ML, Wakeman SE, Humphreys K, & Tsai AC, Robustness of estimated access to opioid treatment providers in rural vs urban areas of the United States. In Press
 
+### Abstract
+
+**Background** Effective, evidence-based treatments for opioid use disorder are not equally accessible to Americans. Recent studies have found urban/rural disparities in the driving times to the nearest opioid treatment providers. These disparities may be even worse than currently reported in the literature because patients may not be able to obtain appointments with their nearest provider. We examine the robustness of the opioid treatment infrastructure by estimating how driving times to treatment change as provider availability decreases.
+
+**Methods** We used public data from the federal government to estimate the driving time from each census tract centroid to the nearest 15 treatment providers. We summarized the median and interquartile range of driving times to increasingly distant providers (i.e., nearest, second nearest, etc.), stratified by urban/rural classification.
+
+**Results** The median driving time to the nearest provider was greater in rural areas than urban areas for both opioid treatment programs (12 minutes vs 61 minutes) and buprenorphine-waivered prescribers (5 minutes vs 21 minutes). Importantly, driving times in rural areas increased more steeply as nearer providers became unavailable. For example, the increase in driving time between the nearest provider and the fifth nearest provider was much greater in rural areas than in urban areas for both buprenorphine-waivered prescribers (23 minutes vs 4 minutes) and for opioid treatment programs (54 minutes vs 22 minutes). 
+
+**Conclusions** Access to treatment for opioid use disorder is more robust in urban areas compared with rural areas. This disparity must be eliminated if the opioid overdose crisis is to be resolved. 
+
+### Issues
+
 Please report any issues via email or [this repo](https://github.com/mkiang/opioid_treatment_distance/issues).
 
 ## Structure
