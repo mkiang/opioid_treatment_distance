@@ -1,0 +1,23 @@
+---
+title: "Session Information"
+author: "Mathew Kiang"
+date: "1/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(here::here("code", "utils.R"))
+```
+
+## `session_info()`
+
+```{r}
+sessioninfo::session_info()
+```
+
+## `sessionInfo()`
+
+```{r}
+sessionInfo()
+```

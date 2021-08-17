@@ -7,6 +7,8 @@ data_private/**
 manuscript/**
 misc/**
 intermediate_objects/**
+code/old_code/**
+
 
 # Cluster / jupyter ignore
 .ipynb_checkpoints
