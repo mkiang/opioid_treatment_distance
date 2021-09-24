@@ -21,9 +21,9 @@ knitr::include_graphics("./output/figure1.jpg")
 
 ## Introduction
 
-Reproducible code for our forthcoming paper, *[Robustness of estimated access to opioid treatment providers in rural vs. urban areas of the United States](TKTK)*, which compares the impact of hypothetical changes in physical access to opioid treatment across urban and rural counties. The full citation is:
+Reproducible code for our forthcoming paper, *[Robustness of estimated access to opioid treatment providers in rural vs. urban areas of the United States](https://doi.org/10.1016/j.drugalcdep.2021.109081)*, which compares the impact of hypothetical changes in physical access to opioid treatment across urban and rural counties. The full citation is:
 
-> Kiang MV, Barnett ML, Wakeman SE, Humphreys K, & Tsai AC, Robustness of estimated access to opioid treatment providers in rural vs urban areas of the United States. In Press
+> Kiang MV, Barnett ML, Wakeman SE, Humphreys K, & Tsai AC, Robustness of estimated access to opioid treatment providers in rural vs. urban areas of the United States, *Drug and Alcohol Dependence* (September 2021), doi: [10.1016/j.drugalcdep.2021.109081](https://doi.org/10.1016/j.drugalcdep.2021.109081)
 
 ### Abstract
 
